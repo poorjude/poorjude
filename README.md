@@ -6,10 +6,12 @@ My specialty and interests: **Blockchain**, **EVM**, **Ethereum**, **Smart contr
 
 Programming languages: **Solidity**, **JavaScript**.
 
-Frameworks: **Hardhat**, **Mocha**, **Chai**, **Waffle**, **OpenZeppelin**.
+Frameworks/libraries: **Hardhat**, **Mocha**-**Chai**-**Waffle**, **Ethers.js**, **OpenZeppelin**.
 
-Additional stuff: **Ethers.js**, **Remix**, **Metamask**, **Git**.
+Known token standards: **ERC20**, **ERC721**, **ERC777**, **ERC1155**.
 
-Check my repositories below!
+Additional stuff: **Remix**, **Metamask**, **Git**.
+
+Check out my repositories below!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjude&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
