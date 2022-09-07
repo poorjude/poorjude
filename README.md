@@ -1,6 +1,4 @@
-### Welcome to my github!
-
-I'm Vlad. 
+### Welcome to my github! I'm Vlad. 
 
 I speak **Russian** (Native proficiency) and **English** (Professional working proficiency).
 
@@ -10,7 +8,7 @@ Programming languages: **Solidity**, **JavaScript**.
 
 Frameworks: **Hardhat**, **Mocha**, **Chai**, **Waffle**, **OpenZeppelin**.
 
-Additional stuff: **Ethers.js**, **Remix**, **Git**.
+Additional stuff: **Ethers.js**, **Remix**, **Git**, **Metamask**.
 
 Check my repositories below!
 
