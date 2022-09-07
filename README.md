@@ -8,7 +8,7 @@ Programming languages: **Solidity**, **JavaScript**.
 
 Frameworks: **Hardhat**, **Mocha**, **Chai**, **Waffle**, **OpenZeppelin**.
 
-Additional stuff: **Ethers.js**, **Remix**, **Git**, **Metamask**.
+Additional stuff: **Ethers.js**, **Remix**, **Metamask**, **Git**.
 
 Check my repositories below!
 
