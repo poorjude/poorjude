@@ -10,7 +10,7 @@ Programming languages: **Solidity**, **JavaScript**.
 
 Frameworks: **Hardhat**, **Mocha**, **Chai**, **Waffle**, **OpenZeppelin**.
 
-Additional things: **Ethers.js**, **Remix**, **Git**.
+Additional stuff: **Ethers.js**, **Remix**, **Git**.
 
 Check my repositories below!
 
