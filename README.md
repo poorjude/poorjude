@@ -2,9 +2,9 @@
 
 I speak **Russian** (Native proficiency) and **English** (Professional working proficiency).
 
-My specialty and interests: **Blockchain**, **EVM**, **Ethereum**, **Smart contracts**.
+My specialization and interests: **Blockchain**, **EVM**, **Ethereum**, **Smart contracts**.
 
-Programming languages: **Solidity**, **JavaScript**.
+Programming languages: **Solidity**, **JavaScript**, C/C++ (little bit).
 
 Frameworks/libraries: **Hardhat**, **Mocha**-**Chai**-**Waffle**, **Ethers.js**, **OpenZeppelin**.
 
