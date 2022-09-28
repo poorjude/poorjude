@@ -10,7 +10,7 @@ Frameworks/libraries: **Hardhat**, **Mocha**-**Chai**-**Waffle**, **Ethers.js**,
 
 Known token standards: **ERC20**, **ERC721**, **ERC777**, **ERC1155**.
 
-Additional stuff: **Remix**, **Metamask**, **Git**.
+Additional stuff: **Remix**, **Metamask**, **Git**, **SQL**.
 
 Check out my repositories below!
 
