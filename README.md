@@ -12,7 +12,7 @@ Currently I am working as a system administrator. I have had experience with the
 - Creating Telegram bots: **Python**, Telebot, **Aiogram**.
 
 Though I have worked with other technologies:
-- **Unit-tests**: JavaScript, Mocha, Chai;
+- **Unit tests**: JavaScript, Mocha, Chai;
 - PowerShell + **VBA** scripts;
 - **SQL** queries;
 - Basic C/C++;
