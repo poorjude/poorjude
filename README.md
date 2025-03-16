@@ -11,7 +11,7 @@ Currently I am working as a system administrator. I have had experience with the
 - Servers: **Zabbix**, **Mailcow**, Zoneminder;
 - Creating Telegram bots: **Python**, Telebot, **Aiogram**.
 
-Though I have worked with other technologies:
+Though I have worked with some other tech:
 - **Unit tests**: JavaScript, Mocha, Chai;
 - PowerShell + **VBA** scripts;
 - **SQL** queries;
