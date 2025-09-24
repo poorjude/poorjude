@@ -7,9 +7,9 @@ Currently I am working as a system administrator. I have had experience with the
 - Virtualization: **Hyper-V**, VMWare ESXi;
 - Containerization: **Docker**;
 - Scripts: **Python**, **PowerShell**, **Bash**;
-- Orchestration: **Ansibke**;
+- Orchestration: **Ansible**;
 - Monitoring: Victoria Metrics/**Prometheus** + **Grafana**, Zabbix;
-- Network: routing, VPN, active network hardware (Mikrotik, Ubiquity);
+- Network: routing, VPN, active network hardware (Mikrotik, Ubiquity).
 
 Though I have worked with some other tech:
 - **Unit tests**: JavaScript + Mocha/Chai;
