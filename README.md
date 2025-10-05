@@ -9,7 +9,7 @@ Currently I am working as a system administrator. I have had experience with the
 - Scripts: **Python**, **PowerShell**, **Bash**;
 - Orchestration/IaaC: **Ansible**, Saltstack, **Terraform**;
 - Monitoring: Victoria Metrics/**Prometheus** + **Grafana**, Zabbix;
-- Windows Server roles: Hyper-V + SCVMM, AD, IIS, DFS, RDS, VDI, DNS, MS Exchange, Failover Cluster;
+- Windows Server roles: Hyper-V + SCVMM, AD, DNS, IIS, DFS, RDS, VDI, Failover Cluster;
 - Network: routing, VPN, active network hardware (Mikrotik, Ubiquity).
 
 Though I have worked with some other tech:
