@@ -3,12 +3,13 @@
 I speak **Russian** (Native proficiency) and **English** (Professional working proficiency).
 
 Currently I am working as a system administrator. I have had experience with the following technologies:
-- OS: **Linux**, **Windows Server**;
-- Virtualization: **Hyper-V**, VMWare ESXi;
+- OS: **Linux** (Ubuntu/CentOS/Rocky), **Windows Server** (2016/2019);
+- Virtualization: **Hyper-V**, **Proxmox/PVE**, VMWare ESXi;
 - Containerization: **Docker**;
 - Scripts: **Python**, **PowerShell**, **Bash**;
-- Orchestration: **Ansible**;
+- Orchestration/IaaC: **Ansible**, Saltstack, **Terraform**;
 - Monitoring: Victoria Metrics/**Prometheus** + **Grafana**, Zabbix;
+- Windows Server roles: Hyper-V + SCVMM, AD, IIS, DFS, RDS, VDI, DNS, MS Exchange, Failover Cluster;
 - Network: routing, VPN, active network hardware (Mikrotik, Ubiquity).
 
 Though I have worked with some other tech:
