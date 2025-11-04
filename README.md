@@ -15,7 +15,7 @@ Currently I am working as a system engineer. I have had experience with the foll
 Though I have worked with some other tech:
 - **Unit tests**: JavaScript + Mocha/Chai;
 - Telegram bots: Python + Telebot/Aiogram;
-- PowerShell + VBA scripts;
-- Blockchain: Solidity (Smart contracts), Waffle, Hardhat.
+- Blockchain: Solidity (Smart contracts), Waffle, Hardhat;
+- VBA (via PowerShell) scripts.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjude&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
