@@ -5,17 +5,17 @@ I speak **Russian** (Native proficiency) and **English** (Professional working p
 Currently I am working as a system engineer. I have had experience with the following technologies:
 - OS: **Linux** (Ubuntu/CentOS/Rocky), **Windows Server** (2016/2019);
 - Virtualization: **Hyper-V**, **Proxmox/PVE**, VMWare ESXi;
-- Containerization: **Docker**;
+- Containerization: **Docker**, **k8s**;
 - Scripts: **Python**, **PowerShell**, **Bash**;
 - Orchestration/IaaC: **Ansible**, **Saltstack**, **Terraform**;
 - Monitoring: Victoria Metrics/**Prometheus** + **Grafana**, Zabbix;
-- Windows Server roles: Hyper-V + SCVMM, AD, DNS, IIS, CS/CA, DFS, RDS, VDI, Failover Cluster;
+- Windows Server roles: Hyper-V, AD, DNS, IIS, CS/CA, DFS, RDS, VDI, Failover Cluster;
 - Network: routing, VPN, active network hardware (Mikrotik, Ubiquity).
 
 Though I have worked with some other tech:
 - **Unit tests**: JavaScript + Mocha/Chai;
 - Telegram bots: Python + Telebot/Aiogram;
-- Blockchain: Solidity (Smart contracts), Waffle, Hardhat;
-- VBA (via PowerShell) scripts.
+- Blockchain: Solidity (smart contracts), Waffle, Hardhat;
+- VBA scripts (via PowerShell).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poorjude&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=poorjude&layout=compact&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=poorjude&layout=compact&langs_count=6)
