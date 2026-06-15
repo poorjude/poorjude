@@ -16,7 +16,7 @@ Currently I am working as a system engineer. I have had experience with the foll
 - Endpoint Security Management: Kaspersky (KSC, KES, KSCNA), Symantec (SEPM, SEP)
 
 Though I have worked with some other tech:
-- Development & Testing: JavaScript **unit tests** (Mocha, Chai), Python (Aiogram, Pynetbox);
+- Development & Testing: JavaScript **unit tests** (Mocha, Chai), Python (Aiogram, Pynetbox)
 - Mail Systems: iRedMail, MailCow, MS Exchange
 - Server hardware: HP/HPE, Dell, Lenovo, IBM
 - Network: routing, VPN, active network hardware (Mikrotik, HP, Ubiquiti)
