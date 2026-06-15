@@ -1,21 +1,25 @@
-### Welcome to my github! I'm Vlad. 
+### Welcome to my GitHub! I'm Vlad.
 
 I speak **Russian** (Native proficiency) and **English** (Professional working proficiency).
 
 Currently I am working as a system engineer. I have had experience with the following technologies:
-- OS: **Linux** (Ubuntu/CentOS/Rocky), **Windows Server** (2016/2019);
-- Virtualization: **Hyper-V**, **Proxmox/PVE**, VMWare ESXi;
-- Containerization: **Docker**, **k8s**;
-- Scripts: **Python**, **PowerShell**, **Bash**;
-- Orchestration/IaaC: **Ansible**, **Saltstack**, **Terraform**;
-- Monitoring: Victoria Metrics/**Prometheus** + **Grafana**, Zabbix;
-- Windows Server roles: Hyper-V, AD, DNS, IIS, CS/CA, DFS, RDS, VDI, Failover Cluster;
-- Network: routing, VPN, active network hardware (Mikrotik, Ubiquity).
+- OS: **Linux** (Debian/Ubuntu/CentOS/Rocky), **Windows Server** (2016/2019)
+- Virtualization: **Proxmox VE**, **Hyper-V**, VMWare ESXi
+- Containerization: **K8s**, Docker
+- Scripts: **Python**, **PowerShell**, **Bash**
+- Orchestration/IaC: **Ansible**, **Saltstack**, **Terraform**
+- CI/CD: **Gitlab CI/CD**
+- Load balancing: **HAProxy**
+- DB: **PostgreSQL** + Patroni, MSSQL + AlwaysOn
+- Monitoring: Victoria Metrics/**Prometheus** + **Grafana**, Zabbix
+- Windows Infrastructure: **Active Directory**, DNS, IIS, DFS, RDS, VDI, NPS, CS/CA, Failover Cluster
+- Endpoint Security Management: Kaspersky (KSC, KES, KSCNA), Symantec (SEPM, SEP)
 
 Though I have worked with some other tech:
-- **Unit tests**: JavaScript + Mocha/Chai;
-- Telegram bots: Python + Telebot/Aiogram;
-- Blockchain: Solidity (smart contracts), Waffle, Hardhat;
-- VBA scripts (via PowerShell).
+- Development & Testing: JavaScript **unit tests** (Mocha, Chai), Python (Aiogram, Pynetbox);
+- Mail Systems: iRedMail, MailCow, MS Exchange
+- Server hardware: HP/HPE, Dell, Lenovo, IBM
+- Network: routing, VPN, active network hardware (Mikrotik, HP, Ubiquiti)
+- Blockchain: Solidity (smart contracts), Waffle, Hardhat
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=poorjude&layout=compact&langs_count=6)](https://github-stats-extended.vercel.app/api/top-langs?username=poorjude&layout=compact&langs_count=6)
